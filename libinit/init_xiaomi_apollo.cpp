@@ -17,7 +17,7 @@ static const variant_info_t apollo_global_info = {
     .device = "apollo",
     .marketname = "Mi 10T",
     .model = "M2007J3SY",
-    .build_fingerprint = "Xiaomi/apollo_global/apollo:12/RKQ1.211001.001/V14.0.4.0.SJDMIXM:user/release-keys",
+    .build_fingerprint = "Xiaomi/apollo_eea/apollo:12/RKQ1.211001.001/V14.0.3.0.SJDEUXM:user/release-keys",
 
     .nfc = true,
 };
